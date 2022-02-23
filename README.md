@@ -1,2 +1,2 @@
-# Dymanic-Programming
+# Dynamic-Programming
 Dynamic Programming Algorithms
