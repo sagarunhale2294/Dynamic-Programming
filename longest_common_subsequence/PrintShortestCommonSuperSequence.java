@@ -52,7 +52,7 @@ public class PrintShortestCommonSuperSequence {
     }
 
     public static void main(String[] args) {
-        String s1 = "abcefgij", s2 = "adefghik";
+        String s1 = "geek", s2 = "eke";
         printShortestCommonSuperSequence(s1.toCharArray(), s2.toCharArray(), s1.length(), s2.length());
     }
 }
